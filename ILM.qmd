@@ -2,13 +2,17 @@
 title: "Intuitive Launchpool Model"
 author: 
     - name: Joshua Ng
-      affiliations: 
-        - name: Studio Raccoons
+    - name: Melvin Zhang
+    - name: Meow 
 format: 
     pdf: 
         documentclass: article
         papersize: A4
-
+        template-partials:
+          - title.tex
+        include-in-header:
+          text: |
+            \usepackage{authblk} 
 abstract: |
     The Intuitive Launchpool Model is a new launchpool model that emphasises giving
     projects the flexibility to decide how they want to distribute liquidity over

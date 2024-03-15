@@ -1,0 +1,13 @@
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+
+$if(subtitle)$
+\subtitle{$subtitle$}
+$endif$
+
+$for(by-author)$
+  \author{$by-author.name.literal$}
+$endfor$
+\affil{Studio Raccoons}
+\date{$date$}
