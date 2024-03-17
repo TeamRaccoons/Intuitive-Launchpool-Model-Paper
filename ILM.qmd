@@ -49,7 +49,7 @@ In the Intuitive Launch Model, projects can create a pool based on their valuati
 Since the setup of these pools is fully customisable, projects can choose
 exactly how they want their curve to look and find out how much they can expect
 to raise. To assist teams in designing their price curves, we published a
-simulation site: [https://lfg.jup.ag/design](https://lfg.jup.ag/design) that
+simulation site: [https://ilm.jup.ag](https://ilm.jup.ag) that
 allows you to play around with various inputs and understand how they differ. 
 We want projects to design the price curve according to a set of highly
 intuitive parameters like initial price to start, max price to sell, and how
